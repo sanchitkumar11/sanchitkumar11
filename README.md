@@ -29,7 +29,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a data scientist. 」
+    「I am a data scientist & Conversational AI Engineer.」
     <br>
     <br>
   </samp>
