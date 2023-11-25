@@ -57,7 +57,7 @@
  📝 &emsp; Currently working on langchain / llama-index projects <br/><br/>
  ❤️ &emsp; Love to read / watch / deliberate about future of AI systems<br/><br/>
  📧 &emsp; Reach me anytime: sanchitnkumar@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/sanchitkumar11/sanchitkumar11/issues)
+ 💬 &emsp; Ask me about anything [here](https://github.com/sanchitkumar11/sanchitkumar11/issues)<br/><br/>
  ⚡ &emsp; Fun fact I started my career as an investment banking analyst, then I became an entreprenuer. Now, I study Data Science.<br/><br/>
 
  🔭 I’m currently studying M.S. in Data Science in University of Chicago
