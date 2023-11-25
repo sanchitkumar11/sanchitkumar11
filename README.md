@@ -65,10 +65,6 @@
  ⚡ Fun fact I started my career as an investment banking analyst, then I became an entrepreneur. Now, I study Data Science.
 </p>
 
-<br/>
-<br/>
-<br/>
-
 ## Use To Code
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
