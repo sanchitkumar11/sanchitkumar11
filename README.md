@@ -53,10 +53,18 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ 🌱 &emsp; Learn NLP / Machine Learning / Edge AI / Generative AI / Computer Vision <br/><br/>
+ 📝 &emsp; Currently working on langchain / llama-index projects <br/><br/>
+ ❤️ &emsp; Love to read / watch / deliberate about future of AI systems<br/><br/>
+ 📧 &emsp; Reach me anytime: sanchitnkumar@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/sanchitkumar11/sanchitkumar11/issues)
+ ⚡ &emsp; Fun fact I started my career as an investment banking analyst, then I became an entreprenuer. Now, I study Data Science.<br/><br/>
+
+ 🔭 I’m currently studying M.S. in Data Science in University of Chicago
+🌱 I’m currently learning NLP, Non-linear Models and Data Mining Principles
+📝 I occassionally write articles on https://medium.com/@egehanyorulmaz
+📫 How to reach me egehanyorulmaz@uchicago.edu
+
 
 </p>
 
