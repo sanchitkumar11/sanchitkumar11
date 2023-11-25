@@ -62,7 +62,7 @@
  
  💬 Ask me about anything [here](https://github.com/sanchitkumar11/sanchitkumar11/issues)
  
- ⚡ Fun fact I started my career as an investment banking analyst, then I became an entreprenuer. Now, I study Data Science.
+ ⚡ Fun fact I started my career as an investment banking analyst, then I became an entrepreneur. Now, I study Data Science.
 </p>
 
 <br/>
