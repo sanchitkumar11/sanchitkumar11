@@ -29,7 +29,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「I am a data scientist & Conversational AI Engineer.」
+    「I am a Data Scientist & Conversational AI Engineer.」
     <br>
     <br>
   </samp>
@@ -51,7 +51,6 @@
  <a href="https://instagram.com/alsiam_dev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
-  Hey there, I'm Sanchit!
   </a> 
 </p>
 <br />
