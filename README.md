@@ -46,7 +46,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-* 🌱 Passionate about NLP / Edge AI / Generative AI / Computer Vision
+* 🌱 Passionate about NLP / Generative AI / Edge AI / Machine Learning
 *  📝 Currently working on 🦜️🔗 langchain / 🦙 llama-index enabled projects
 *  ▶️ Previous projects include: [Review of AI Adoption](https://github.com/sanchitkumar11/Review-of-AI-Adoption) & [Is Twitter Credible?](https://github.com/sanchitkumar11/Is-Twitter-Credible) 
 *  ❤️ Love to read / watch / deliberate about future of AI systems
