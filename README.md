@@ -46,17 +46,13 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- 🌱 Learn NLP / Machine Learning / Edge AI / Generative AI / Computer Vision 
- 
- 📝 Currently working on langchain / llama-index projects
- 
- ❤️ Love to read / watch / deliberate about future of AI systems
- 
- 📧 Reach me anytime: sanchitnkumar@gmail.com
- 
- 💬 Ask me about anything [here](https://github.com/sanchitkumar11/sanchitkumar11/issues)
- 
- ⚡ Fun fact I started my career as an investment banking analyst, then I became an entrepreneur. Now, I study Data Science.
+* 🌱 Passionate about NLP / Edge AI / Generative AI / Computer Vision
+*  📝 Currently working on 🦜️🔗 langchain / 🦙 llama-index enabled projects
+*  ▶️ Previous projects include: [Review of AI Adoption](https://github.com/sanchitkumar11/Review-of-AI-Adoption) & [Is Twitter Credible?](https://github.com/sanchitkumar11/Is-Twitter-Credible) 
+*  ❤️ Love to read / watch / deliberate about future of AI systems
+*  📧 Reach me anytime: sanchitnkumar@gmail.com
+*  💬 Ask me about anything [here](https://github.com/sanchitkumar11/sanchitkumar11/issues)
+*  ⚡ Fun fact I started my career as an investment banking analyst, then I became an entrepreneur. Now, I study Data Science.
 </p>
 
 ## Use To Code
