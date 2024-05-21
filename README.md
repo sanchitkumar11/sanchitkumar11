@@ -52,7 +52,6 @@
 *  ❤️ Love to read / watch / deliberate about future of AI systems
 *  📧 Reach me anytime: sanchitnkumar@gmail.com
 *  💬 Ask me about anything [here](https://github.com/sanchitkumar11/sanchitkumar11/issues)
-*  ⚡ Fun fact I started my career as an investment banking analyst, then I became an entrepreneur. Now, I study Data Science.
 </p>
 
 ## Use To Code
